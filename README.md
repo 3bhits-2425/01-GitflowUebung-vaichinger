@@ -1,5 +1,5 @@
 # 01-GitflowUebung-vaichinger
-Add und Commit von README.md File.
-Erneute bearbeitung
-Commit
-Auf Remote Respository pushen
+Add und Commit von README.md File<br>
+Erneute bearbeitung<br>
+Commit<br>
+Auf Remote Respository pushen<br>
